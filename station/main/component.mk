@@ -1,0 +1,7 @@
+#
+# "main" pseudo-component makefile.
+#
+# (Uses default behaviour of compiling all source files in directory, adding 'include' to include path.)
+
+#COMPONENT_EMBED_TXTFILES := ../image/anh.jpg
+COMPONENT_EMBED_TXTFILES := ../html/index.html
